@@ -1,0 +1,6 @@
+django-bmemcached
+django-heroku
+Django
+gunicorn
+pylibmc
+whitenoise
