@@ -35,7 +35,7 @@
 3) Запускаем приложение:
    - heroku open
 
-   Данный проект находится на https://powerful-falls-58637.herokuapp.com/
+   Данный проект находится на https://still-lake-69184.herokuapp.com/
    По умолчанию логин и пароль для пользователя-администратора в проекте:
    - Логин: pws_admin
    - Пароль: sf_password
